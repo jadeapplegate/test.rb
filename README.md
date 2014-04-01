@@ -1,2 +1,3 @@
-Put things here
-Hey there
+Hey there!
+
+THis is my readme. This is a test project. 
